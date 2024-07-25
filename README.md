@@ -8,5 +8,5 @@ Meu nome é Felipe Maciel
 
   ### Você pode entrar em contato comigo através do Meu Email:
 
-  - Github.FelipeMLemes@gmail.com
+  - felipe.maciel.lemes@escola.pr.gov.br
 
